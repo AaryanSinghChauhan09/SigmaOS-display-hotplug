@@ -3,7 +3,7 @@ name = "SigmaOS-display-hotplug"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "display-hotplug component"
+description = "Display Hotplug"
 upstream = []
 
 [contract]
